@@ -1,4 +1,4 @@
-# VARS – System Architecture
+# VARS – System Architecture```
 
 Project: VARS (Vehicle Attitude Reference System)  
 Document: ARCHITECTURE  
@@ -72,4 +72,4 @@ User Input
 (Rotary Encoder)
 |
 Audio Output
-(Buzzer)
+(Buzzer)```
