@@ -1,4 +1,4 @@
-# VARS – System Architecture```
+# VARS – System Architecture
 
 Project: VARS (Vehicle Attitude Reference System)  
 Document: ARCHITECTURE  
@@ -39,7 +39,7 @@ background automation.
 
 ## High-Level System Structure
 
-Vehicle Power (12 V)
+```Vehicle Power (12 V)
 |
 v
 Inline Fuse & Input Protection
