@@ -39,7 +39,8 @@ background automation.
 
 ## High-Level System Structure
 
-```Vehicle Power (12 V)
+```
+Vehicle Power (12 V)
 |
 v
 Inline Fuse & Input Protection
@@ -72,4 +73,6 @@ User Input
 (Rotary Encoder)
 |
 Audio Output
-(Buzzer)```
+(Buzzer)
+
+```
