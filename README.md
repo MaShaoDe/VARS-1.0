@@ -84,7 +84,7 @@ Akustische Warnungen sind optional und werden beim Verlassen des Parkmodus immer
 
 ## Projektstruktur
 
-Empfohlene Repository-Struktur:
+Repository-Struktur:
 
 - README.md  
   Projektübersicht und Einstiegspunkt
@@ -100,6 +100,8 @@ Empfohlene Repository-Struktur:
 
 - hardware/  
   Optional: Schaltpläne, Gehäuse, PCB-Dateien
+
+-  Detaillierte Dokumentation befindet sich im Ordner docs/
 
 ## Roadmap
 
