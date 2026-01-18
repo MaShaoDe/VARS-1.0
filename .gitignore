@@ -1,0 +1,26 @@
+.gitignore
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build / temporär
+*.log
+*.tmp
+*.bak
+
+# Optional: keine generellen Bildformate ignorieren
+# (wichtig für Display-Mockups)
+
+# Falls irgendwo global Bilder ignoriert wurden,
+# explizit erlauben für VARS:
+!docs/display_mockups/
+!docs/display_mockups/**/*.jpg
+!docs/display_mockups/**/*.jpeg
+!docs/display_mockups/**/*.png
