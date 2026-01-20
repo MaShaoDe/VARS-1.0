@@ -4,7 +4,7 @@ VARS is an ESP32-based colour cockpit display for visualising vehicle attitude (
 
 It is designed for camper vans and similar DIY vehicle projects and focuses on calm, stable visualisation for vehicle levelling while parked. VARS prioritises clear geometry, predictable behaviour and a defensive, neighbour-friendly warning philosophy.
 
-VARS is an open-source DIY project. It is not intended for safety-critical, certified or regulatory-relevant applications.
+-VARS is an open-source DIY project. It is not intended for safety-critical, certified or regulatory-relevant applications.
 
 ## Project Status
 
